@@ -1,0 +1,13 @@
+Instructions to run: 
+1. unzip all contents to one location
+2. In command prompt, navigate to location of unzipped content
+3. Execute .py file using Python 2.7. Example: run "py -2 binaryParse.py" in command prompt
+
+To create python compiled file, run "py -2 -m py_compile binaryParse.py" in command prompt
+
+
+Other notes: I noticed there's one more payment record than the header indicates. I opted to follow the header and ignored the 72th entry. 
+But it could mean I'm parsing the data wrong...
+
+
+
